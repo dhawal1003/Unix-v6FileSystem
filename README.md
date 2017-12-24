@@ -8,6 +8,7 @@ In order to compile the program:
 Enter the mentioned below commands:
 
 1)To compile the program:	cc fsaccess.c
+
 2)To Run the program:	./a.out  v6filesystem
 
 Supported Commands:
@@ -35,8 +36,12 @@ Supported Commands:
 
 Commands examples:
 
-1)initfs 5000 400
-2)mkdir /dhawal/project
-3)cpin externalFileName /dhawal/project/story.txt
-4)cpout /dhawal/project/story.txt externalFileName
-5)Rm /dhawal/project/story.txt  
+1) initfs 5000 400
+
+2) mkdir /dhawal/project
+
+3) cpin externalFileName /dhawal/project/story.txt
+
+4) cpout /dhawal/project/story.txt externalFileName
+
+5) Rm /dhawal/project/story.txt  
